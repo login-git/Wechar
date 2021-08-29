@@ -8,3 +8,4 @@ master
 hot-fix
 
 edit
+git-edit
